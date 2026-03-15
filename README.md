@@ -40,33 +40,16 @@ Push Image to DockerHub
 
 # Features
 
-✔ Automated CI/CD pipeline using GitHub Actions
-✔ Code linting for quality checks
-✔ Secrets scanning to prevent credential leaks
-✔ Dependency vulnerability scanning
-✔ Docker image build automation
-✔ Container security scanning
-✔ Secure DevSecOps workflow
+✔ Automated CI/CD pipeline using GitHub Actions.
+✔ Code linting for quality checks.
+✔ Secrets scanning to prevent credential leaks.
+✔ Dependency vulnerability scanning.
+✔ Docker image build automation.
+✔ Container security scanning.
+✔ Secure DevSecOps workflow.
 
 
-DevSecOps-Ecommerce/
-│
-├── .github/
-│   └── workflows/
-│        ├── code-quality.yml
-│        ├── secrets-scan.yml
-│        ├── dependency-scan.yml
-│        ├── docker-scan.yml
-│        └── pipeline.yml
-│
-├── src/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-│
-├── Dockerfile
-├── README.md
-└── package.json
+
 
 Pipeline Stages
 
